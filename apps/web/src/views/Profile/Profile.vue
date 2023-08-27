@@ -16,7 +16,7 @@ const mint = async () => {
     name: ensName ?? address,
     image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fca%2Fimages%2F3d-gold-medal-with-star-and-ribbon-winner-award-icon-best-choice-badge-winner-award-badge-award-medal-icon%2F249182775&psig=AOvVaw1WiPi9XpHyHxG9-nIvlR3E&ust=1670204371943000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCQx6nq3vsCFQAAAAAdAAAAABAW',
     tokenId: address,
-    description: "Web3gram Social Badge"
+    description: "0xweb3gram Social Badge"
   }
   const properties = [{ stage: 'Beginner', color: 'Purple' }]
   const data = await addNFT(tokenData, properties)

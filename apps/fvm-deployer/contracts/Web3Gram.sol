@@ -4,7 +4,7 @@ pragma solidity ^0.6.2;
 import "@opengsn/gsn/contracts/BaseRelayRecipient.sol";
 import "./types/MarketTypes.sol";
 
-contract Web3Gram is BaseRelayRecipient {
+contract 0xweb3gram is BaseRelayRecipient {
 
      mapping(uint64 => MarketTypes.MockDeal) deals;
      address owner;
