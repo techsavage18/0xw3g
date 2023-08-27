@@ -1,0 +1,24 @@
+{
+  "name": "@web3gram/deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hardhat deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "@glif/filecoin-address": "^2.0.20",
+    "@opengsn/gsn": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat-deploy": "^0.11.22",
+    "hardhat-deploy-ethers": "0.3.0-beta.13"
+  }
+}
