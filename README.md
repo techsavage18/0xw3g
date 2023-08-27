@@ -13,6 +13,8 @@ Web3Gram is a decentralized social networking platform inspired by Instagram. It
 - [Contributing](#contributing)
 - [License](#license)
 
+**Video Demonstration: **https://vimeo.com/858436443?share=copy
+
 ## Problem Statement
 
 In today's digital world, content ownership and privacy are significant concerns. Web3Gram aims to address these issues by providing a social networking platform where data is stored in a decentralized manner, reducing the risk of content plagiarism and enabling easy copyright claims.
